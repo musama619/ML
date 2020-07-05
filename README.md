@@ -1,4 +1,4 @@
-# The-Rectified-Linear-Unit-ReLU-
+# The-Rectified-Linear-Unit-ReLU
 
 The Rectified Linear Unit (ReLU)
 In this lesson we talked about ReLU and how it gives our Dense layer more power. ReLU stands for Rectified Linear Unit and it is a mathematical function that looks like this:
